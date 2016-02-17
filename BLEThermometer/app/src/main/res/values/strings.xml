@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLE Thermometer</string>
+    <string name="temperature_text">TEMP</string>
+</resources>
