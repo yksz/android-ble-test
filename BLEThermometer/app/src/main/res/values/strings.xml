@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BLE Thermometer</string>
+
+    <string name="view_txt_temperature">TEMP</string>
+    <string name="view_txt_conn_status">Connection Status</string>
+    <string name="view_txt_gatt_status">GATT Status</string>
+    <string name="view_btn_scan">Scan</string>
+    <string name="view_btn_scan_scanning">Scanning...</string>
+    <string name="view_btn_update">Update</string>
+    <string name="view_btn_update_stop">Stop Update</string>
+
+    <string name="msg_error_ble_not_supported">BLE is not supported</string>
+    <string name="msg_error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unit_celsius">°C</string>
+    <string name="unit_fahrenheit">°F</string>
+</resources>
